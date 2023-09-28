@@ -1,4 +1,4 @@
-# [tktk Module Name] - Video Hub
+# Intro to the CLI - Video Hub
 
 ![Hero image](../../assets/tktkhero-secondary.png)
 

@@ -1,4 +1,4 @@
-# [tktk Module Name]
+# Intro to the CLI
 
 ![Hero image](./assets/tktkhero-main.png)
 
@@ -10,10 +10,12 @@ tktk What is the takeaway of this module?
 
 | Lesson | Video Time | Video | Learning Objective |
 | ------ |:----------:|:-----:| ------------------ |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | tktk min | [tktk Link]() | tktk LO |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | tktk min | [tktk Link]() | tktk LO |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | tktk min | [tktk Link]() | tktk LO |
-|  **Total Module**                                        | tktk min | --            | ---     |
+| [Concepts](./concepts/README.md)                                         | --- | --- | tktk LO |
+| [Fundamentals](./fundamentals/README.md)                                 | --- | --- | tktk LO |
+| [The File System](./the-file-system/README.md)                           | --- | --- | tktk LO |
+| [Navigating the File System](./navigating-the-file-system/README.md)     | --- | --- | tktk LO |
+| [Manipulating the File System](./manipulating-the-file-system/README.md) | --- | --- | tktk LO |
+|  **Total Module**                                                        | --- | --- | ---     |
 
 ## Additional content 
 
@@ -21,9 +23,11 @@ tktk What is the takeaway of this module?
 
 ### 🚀 Level Up
 
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md)
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-02.md)
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-03.md)
+- [Getting Help](./level-up/getting-help.md)
+- [Flags](./level-up/flags.md)
+- [The Shell](./level-up/the-shell.md)
+- [The Ubuntu Terminal](./level-up/the-ubuntu-terminal.md)
+- [What is a Command?](./level-up/what-is-a-command.md)
 
 ## Internal resources
 
