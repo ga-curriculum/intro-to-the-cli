@@ -8,7 +8,7 @@
 
 Before navigating the file system, we should understand what it is. The file system is the organizational structure of a computer. 
 
-Just as products in a store are organized by their broadest categories, then divided into sections, then aisles with shelves holding individual products, the files on a computer are organized into directories.
+Just as products in a store are organized by their broadest categories, then divided into sections with aisles full of shelves holding individual products, the files on a computer are organized into directories.
 
 Imagine you were finding a can of soup at a store. You would start in the store, go to the grocery section, find the canned goods aisle, look for soup, and then find the specific one you want.
 

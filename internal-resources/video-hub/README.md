@@ -14,6 +14,8 @@ Here you'll find the outlines and the assets used in video content, as well as t
 
 | Lesson | External content |
 | ------ |:----------------:|
-| [microlesson-01](./microlesson-01.txt) | n/a |
-| [microlesson-02](./microlesson-02.txt) | n/a |
-| [microlesson-03](./microlesson-03.txt) | n/a |
+| [Concepts](./concepts.txt)                                         | n/a |
+| [Fundamentals](./fundamentals.txt)                                 | n/a |
+| [The File System](./the-file-system.txt)                           | n/a |
+| [Navigating the File System](./navigating-the-file-system.txt)     | n/a |
+| [Manipulating the File System](./manipulating-the-file-system.txt) | n/a |

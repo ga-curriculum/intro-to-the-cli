@@ -1,5 +1,5 @@
 Lecture title: Intro to the CLI
-Subtitle: microlesson-02
+Subtitle: Navigating the File System
 
 chapter-file-name
 - Chapter title: Name of chapter

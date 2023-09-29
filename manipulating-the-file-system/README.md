@@ -1,29 +1,40 @@
-# Intro to the CLI - tktk Microlesson Name
+# Intro to the CLI -  Manipulating the File System
 
 ![Hero image](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to manipulate the file system by creating and deleting files and directories from the command line.
 
 ## Creating
 
+Let's create directories and files! We'll get some additional practice navigating the file system too.
+
 ### `mkdir`
 
-Now that we can navigate the file system, let's learn how to create, modify, and delete files and folders.
-Make Directory: mkdir
+The `mkdir` command is used to create directories. The `mkdir` command takes a command argument, just like the `cd` command did. The meaning of that argument is different in this case though. Here we will specify the path to the directory we would like to create. We'll use a relative path again.
 
-Makes a directory (folder) in a location relative to the current directory
-Example:
+Ensure your prompt indicates that you're in the `~` directory, then let's try it out:
 
 ```bash
-mkdir directory_name
+mkdir code
 ```
 
-makes a directory called 'directory_name'`
+Running this code will create a `code` directory! Let's move into that directory with the `cd` command.
+
+This time only type `cd co` into the command line, then hit the `Tab` key. This should autocomplete the rest of the line and it should now say `cd code`. Execute that command!
+
+This is called tab completion, and it really is the best.
+
+> ♻ **Repeatable pattern:** Tab completion will let you do less typing and save time. It's also more precise than manually typing paths out, because it will only complete valid commands and paths. It's also a great tool in VS Code when we start using it.
+
+### 🧠 You Do
+
+Create another directory of your choice and move into it.
 
 ### `touch`
 
-creates an empty file in a location relative to the current directory
-A file typically will have a file extension like `.txt` whereas a directory will not. Example:
+You should be in the directory that you just created.
+
+The `touch` command works very similarly to the `mkdir` command, except instead of creating an empty directory, it creates an empty file. Files will typically have a file extension like `.html` for HTML files or `.png` for PNG image files.
 
 ```bash
 touch file.txt
@@ -33,20 +44,27 @@ Makes a file with the `.txt` extension, representing a text file.
 
 ## Deleting
 
-### `rm`
+We may have created a little more than we need, let's clean up some. 
 
-Deletes a file with no confirmation.
-There is no trash to recover removed files from so use with caution.
+### 🧠 You Do
 
-### `rmdir`
+Delete the file and the directory that you just created.
 
-Deletes a directory. Similarly to `rm`, no confirmation or trash to recover from, so proceed cautiously.
+- Use the `rm` command to delete the `file.txt` file. The syntax for the `rm` command is similar way to the `touch` command, but it destroys insted of creates. There is no trash to recover files from after they are deleted with this command, so use it carefully.
+- Navigate out of the current directory so that you are able to delete it. Maybe return to the parent directory like we did ealier?
+- Use the `rmdir` command to delete the directory you created in the **🧠 You Do** section earlier. This command works similarly to the `mkdir` command but like the `rm` command, it will destory instead of create. This command will only delete empty directories. 
 
+After you've accomplished those tasks, create the directory structure we'll use for the rest of the course.
 
-## You do
+In your `code` directory, create a `ga` directory to hold everything you do at General Assembly. Inside of this `ga` directory, create 4 more directories:
 
-Let's create the directory we're using 
+- `labs` - For all lab assignments.
+- `lectures` - For all class lectures. 
+- `projects` - For any large projects done in a course.
+- `sandbox` - For quick experimentation.
 
-To get your hands dirty, use the commands above to build out the following folders and files. This will be where you store all your work from SEI.
+All lecture material will assume you have this base directory structure, but if you'd like, you may further divide these directories based on topic, week, or any other method of your choosing. 
 
+When you're done you should be able to run the `ls` command in the `ga` directory and see the following:
 
+![The directory structure for the course!](./assets/course-dir-structure.png)
