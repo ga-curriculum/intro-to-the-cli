@@ -1,6 +1,6 @@
 # Intro to the CLI
 
-![Hero image](./assets/tktkhero-main.png)
+![Hero image](./assets/hero-main.png)
 
 ## Module overview
 

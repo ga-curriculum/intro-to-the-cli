@@ -1,6 +1,6 @@
 # Intro to the CLI - Release Notes
 
-![Hero image](../assets/tktkhero-secondary.png)
+![Hero image](../assets/hero-secondary.png)
 
 ## Version 1.0 - Updates from legacy content
 
