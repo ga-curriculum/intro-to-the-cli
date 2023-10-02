@@ -30,7 +30,7 @@ Another visual for you:
 
 ![Our beats in the file system!](./assets/beats.png)
 
-Above, you can see that path to the `beats` file visualized. The word path, or more accurately *absolute path* actually has a meaning in this context - it's the unique location for every file or directory in the file system. The *absolute path* for the file is:
+Above, you can see the path to the `beats` file visualized. The word path, or more accurately, *absolute path*, actually has a meaning in this context - it's the unique location for every file or directory in the file system. The *absolute path* for the file is:
 
 ```plain
 /Users/student/Music/beats
