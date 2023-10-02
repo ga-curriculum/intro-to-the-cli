@@ -2,12 +2,38 @@
 
 ![Hero image](./assets/hero.png)
 
+As demonstrated in [Navigating the File System](../navigating-the-file-system/README.md), we can use the `ls` command to see the files in a directory. 
 
-tktk use `ls -a` here instead.
+The default behavior of this command is to not display hidden files (files that start with a `.`, like a `.gitignore-global` file). So how do we view files like this? We can add a what is called a *flag* to the `ls` command. Let's do this now!
 
-In the rm -rf command, the letters r and f are flags. Flags are extra options you can optionally add to commands. They modify the behavior of the command.
+```bash
+ls -a
+```
 
-In the rm -rf example, there are two flags
+Here the letter `a` is a flag which is indicated by the `-`. Flags are extra modifiers you can optionally add to commands. They change the behavior of the command.
 
-    -r: recursive, delete all nested files and directories
-    -f: force, ignore permissions and do not ask for confirmation
+The `ls` command has quite a few other flags, such as `-l`. This flag lists the directories and files in a directory in a longer format with more details. Let's test it!
+
+```bash
+ls -l
+```
+
+We can even combine these 2 flags and run both simultaneously:
+
+```bash
+ls -a -l
+```
+
+Or use a cool shortcut by writing one dash `-` followed by the 2 options:
+
+```bash
+ls -al
+```
+
+We can write the flags in any order:
+
+```bash
+ls -la
+```
+
+Some applications also have long flags. These commands are spelled out words and are preceeded by 2 dashes `--`. A common long flag is `--help`, which some applications will have as a flag to display help information.
