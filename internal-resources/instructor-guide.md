@@ -1,8 +1,14 @@
-# [tktk Module Name] - Instructor Guide
+# Intro to the CLI - Instructor Guide
 
-![Hero image](../assets/tktkhero-secondary.png)
+![Hero image](../assets/hero-secondary.png)
 
-tktk information to help instructors deliver this content should be added here. This file should not be removed, even if there is no content to place here immediately, and the following content should be retained regardless of how much content is in this file.
+## General
+
+If your students haven't completed installfest or do not install oh-my-zsh then their terminals will look different from the screenshots in this content. Acknowledge this and move on, the main lecture content is not dependant upon their terminals being identical to the screenshots.
+
+## Navigating the File System and Manipulating the File System
+
+In these sections you may find it useful to use the `tree` command to demonstrate how our view of the file system is changing 
 
 ---
 

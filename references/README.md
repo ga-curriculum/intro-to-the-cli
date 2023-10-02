@@ -1,4 +1,4 @@
-# [tktk Module Name] - References
+# Intro to the CLI - References
 
 ![Hero image](./assets/hero.png)
 
@@ -6,8 +6,4 @@
 
 Links from lessons:
 
-- [tktk descriptive name of link]()
-
-- [tktk descriptive name of link]()
-
-- [tktk descriptive name of link]()
+None!
