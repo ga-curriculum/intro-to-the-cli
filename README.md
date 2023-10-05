@@ -27,7 +27,6 @@ This lecture module covers the basics of the CLI, including an introduction to t
 - [Getting Help](./level-up/getting-help.md)
 - [Flags](./level-up/flags.md)
 - [The Shell](./level-up/the-shell.md)
-- [The Ubuntu Terminal](./level-up/the-ubuntu-terminal.md)
 
 ## Internal resources
 
