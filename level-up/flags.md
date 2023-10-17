@@ -1,6 +1,6 @@
 # Intro to the CLI - Level Up - Flags
 
-![Hero image](./assets/hero.png)
+![Hero image](./assets/hero-flags.png)
 
 As demonstrated in [Navigating the File System](../navigating-the-file-system/README.md), we can use the `ls` command to see the files in a directory. 
 
