@@ -1,6 +1,6 @@
 # Intro to the CLI
 
-![Hero image](./assets/intro-to-the-cli.png)
+![Hero image](./assets/hero.png)
 
 ## Module overview
 
