@@ -21,7 +21,8 @@ This lecture module covers the basics of the CLI, including an introduction to t
 
 📖 [Reference Materials](./references/README.md)
 
-### 🚀 Level Up
+<!-- ### 🚀 Level Up -->
+![Level Up Subheader](./assets/level-up.png)
 
 - [What is a Command?](./level-up/what-is-a-command.md)
 - [Getting Help](./level-up/getting-help.md)
