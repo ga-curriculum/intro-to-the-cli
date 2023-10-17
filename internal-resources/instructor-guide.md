@@ -1,6 +1,6 @@
 # Intro to the CLI - Instructor Guide
 
-![Hero image](../assets/hero-secondary.png)
+![Hero image](./assets/hero-instructor-guide.png)
 
 ## General
 
