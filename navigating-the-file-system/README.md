@@ -2,7 +2,7 @@
 
 ![Hero image](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to navigate the file system from the command line.
+**Learning objective:** By the end of this lesson, students will be able to apply CLI commands like `pwd`, `ls`, and `cd` to efficiently navigate and interpret a computer's file system.
 
 ## `pwd`
 

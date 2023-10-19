@@ -2,31 +2,38 @@
 
 ![Hero image](./assets/hero.png)
 
-## Module overview
+## About
 
-This lecture module covers the basics of the CLI, including an introduction to the file system. Students learn the basics of commands used to navigate and manipulate the file system from the command line.
+This module provides a beginner-friendly guide to using the Command Line Interface (CLI), teaching students how to navigate and manipulate their computer's file system with text commands. It starts with understanding what the CLI is and its utility, then progresses to navigating through folders, checking folder contents, creating new folders and files, and safely deleting unnecessary items.
 
-## Content outline
+## Prerequisites 
 
-| Lesson | Video Time | Video | Learning Objective |
+ None
+
+## Content
+
+| Lesson | Video Time | Video | Topics Covered |
 | ------ |:----------:|:-----:| ------------------ |
-| [Concepts](./concepts/README.md)                                         | --- | --- | Define and explain the strengths and weaknesses of GUIs and CLIs.                                |
-| [Fundamentals](./fundamentals/README.md)                                 | --- | --- | Open and navigate the a terminal application, and know how to run commands.                      |
-| [The File System](./the-file-system/README.md)                           | --- | --- | Describe what a file system is.                                                                  |
-| [Navigating the File System](./navigating-the-file-system/README.md)     | --- | --- | Navigate the file system from the command line.                                                  |
-| [Manipulating the File System](./manipulating-the-file-system/README.md) | --- | --- | Manipulate the file system by creating and deleting files and directories from the command line. |
-|  **Total Module**                                                        | --- | --- | ---                                                                                              |
+| [Concepts](./concepts/README.md)                                         | -- | -- | CLI vs GUI, Basics, Benefits (Power, Repeatability, Precision, Tools)                                |
+| [Fundamentals](./fundamentals/README.md)                                 | -- | -- | Opening Terminal on macOS, Windows, Ubuntu; Terminal Interface; First Commands; Understanding Errors and Prompts                      |
+| [The File System](./the-file-system/README.md)                           | -- | -- | Understanding File System; Root and Home Directories; Absolute Paths; File and Directory Organization; Parent-Child Relationship in Directories                                                                  |
+| [Navigating the File System](./navigating-the-file-system/README.md)     | -- | -- | File system structure, pwd, ls, cd, command argument, relative and absolute paths                                                  |
+| [Manipulating the File System](./manipulating-the-file-system/README.md) | -- | -- | Creating and deleting files and directories, mkdir, touch, rm, rmdir, tab completion, directory structure |
+|  **Total Module**                                                | -- | -- |                                                         |
 
-## Additional content 
+## 🚀 Level Up Content
+
+| Lesson | Video Time | Video | Topics Covered |
+| ------ |:----------:|:-----:| ------------------ |
+[The Shell](./level-up/the-shell.md) | -- | -- | What is *the Shell*?
+[What is a Command?](./level-up/what-is-a-command.md)  | -- | -- | Built-in commands, executable programs, functions and aliases
+[Getting Help](./level-up/getting-help.md) | -- | -- | View the manual page for a command
+[Flags](./level-up/flags.md)  | -- | -- | How to use common flags
+|  **Bonus**                                                | -- | -- |                                                         |
+
+## Reference
 
 📖 [Reference Materials](./references/README.md)
-
-### 🚀 Level Up
-
-- [What is a Command?](./level-up/what-is-a-command.md)
-- [Getting Help](./level-up/getting-help.md)
-- [Flags](./level-up/flags.md)
-- [The Shell](./level-up/the-shell.md)
 
 ## Internal resources
 

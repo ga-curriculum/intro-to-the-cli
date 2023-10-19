@@ -2,7 +2,7 @@
 
 ![Hero image](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to define and explain the strengths and weaknesses of GUIs and CLIs.
+**Learning objective:** By the end of this lesson, students will be able to compare and evaluate the advantages and disadvantages of GUIs (Graphical User Interfaces) and CLIs (Command Line Interfaces).
 
 ## What is the CLI?
 

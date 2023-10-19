@@ -2,7 +2,7 @@
 
 ![Hero image](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to manipulate the file system by creating and deleting files and directories from the command line.
+**Learning objective:** By the end of this lesson, students will be able to execute CLI commands such as `mkdir`, `touch`, `rm`, and `rmdir` to create, modify, and delete files and directories.
 
 ## Creating
 

@@ -4,8 +4,6 @@
 
 This question is harder to answer than you might initially hope, but in short, a command is anything you can execute directly from the command line.
 
-Before going further, you should read [The Shell Level Up](./the-shell.md).
-
 What makes this difficult to define is that there are four main types of commands you might use:
 
 - **Built-in Commands:** These are commands directly integrated into the shell. For example, when you run `cd`, the shell handles these commands internally without invoking external programs.

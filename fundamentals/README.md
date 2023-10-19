@@ -2,7 +2,7 @@
 
 ![Hero image](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to open and navigate their OS's terminal application and know how to run commands.
+**Learning objective:** By the end of this lesson, students will be able to open their OS's terminal application and run basic commands.
 
 ## Open the terminal application
 
