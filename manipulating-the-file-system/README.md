@@ -1,6 +1,4 @@
-# Intro to the CLI -  Manipulating the File System
-
-![Hero image](./assets/hero.png)
+# ![Intro to the CLI -  Manipulating the File System](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to manipulate the file system by creating and deleting files and directories from the command line.
 

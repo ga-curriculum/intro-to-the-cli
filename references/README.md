@@ -1,6 +1,4 @@
-# Intro to the CLI - References
-
-![Hero image](./assets/hero.png)
+# ![Intro to the CLI - References](./assets/hero.png)
 
 ## Lesson references
 

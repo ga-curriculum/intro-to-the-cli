@@ -1,6 +1,4 @@
-# Intro to the CLI - Fundamentals
-
-![Hero image](./assets/hero.png)
+# ![Intro to the CLI - Fundamentals](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to open and navigate their OS's terminal application and know how to run commands.
 

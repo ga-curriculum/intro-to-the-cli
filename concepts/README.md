@@ -1,6 +1,4 @@
-# Intro to the CLI - Concepts
-
-![Hero image](./assets/hero.png)
+# ![Intro to the CLI - Concepts](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to define and explain the strengths and weaknesses of GUIs and CLIs.
 

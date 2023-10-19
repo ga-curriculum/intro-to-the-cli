@@ -1,6 +1,4 @@
-# Intro to the CLI - Navigating the File System
-
-![Hero image](./assets/hero.png)
+# ![Intro to the CLI - Navigating the File System](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to navigate the file system from the command line.
 
