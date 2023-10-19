@@ -58,7 +58,7 @@ Many directories shown here would presumably have something inside them (althoug
 
 Let's establish some shared language using this visual from the perspective of the `student` directory: 
 
-- The student directory has many *children* (`Applications`, `Downloads`, `Movies`, and so on). 
+- The `student` directory has many *children* (`Applications`, `Downloads`, `Movies`, and so on). 
 - It only has one *parent* (`Users`). A file or directory may only ever have a single parent.
 
 One last thing to note before we move on. Directories can hold both directories and files - see the `Downloads` directory above.
