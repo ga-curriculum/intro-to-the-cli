@@ -21,7 +21,7 @@ This module provides a beginner-friendly guide to using the Command Line Interfa
 | [Manipulating the File System](./manipulating-the-file-system/README.md) | -- | -- | Creating and deleting files and directories, mkdir, touch, rm, rmdir, tab completion, directory structure |
 |  **Total Module**                                                | -- | -- |                                                         |
 
-## 🚀 Level Up Content
+## Level Up content
 
 | Lesson | Video Time | Video | Topics Covered |
 | ------ |:----------:|:-----:| ------------------ |
@@ -31,7 +31,7 @@ This module provides a beginner-friendly guide to using the Command Line Interfa
 [Flags](./level-up/flags.md)  | -- | -- | How to use common flags
 |  **Bonus**                                                | -- | -- |                                                         |
 
-## Reference
+## References
 
 📖 [Reference Materials](./references/README.md)
 
