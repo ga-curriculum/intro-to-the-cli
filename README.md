@@ -10,9 +10,9 @@ This module provides a beginner-friendly guide to using the Command Line Interfa
 
 ## Content
 
-| Lesson | Video Time | Video | Topics Covered |
-| ------ |:----------:|:-----:| ------------------ |
-| [Concepts](./concepts/README.md)                                         | -- | -- | CLI vs GUI, Basics, Benefits (Power, Repeatability, Precision, Tools)                                |
+| Lesson | Video Time | Video | Skills Covered |
+| ------ |:----------:|:-----:| -------------- |
+| [Concepts](./concepts/README.md)                                         | -- | -- | CLI vs GUI basics, Benefits (Power, Repeatability, Precision, Tools)                                |
 | [Fundamentals](./fundamentals/README.md)                                 | -- | -- | Opening Terminal on macOS, Windows, Ubuntu; Terminal Interface; First Commands; Understanding Errors and Prompts                      |
 | [The File System](./the-file-system/README.md)                           | -- | -- | Understanding File System; Root and Home Directories; Absolute Paths; File and Directory Organization; Parent-Child Relationship in Directories                                                                  |
 | [Navigating the File System](./navigating-the-file-system/README.md)     | -- | -- | File system structure, pwd, ls, cd, command argument, relative and absolute paths                                                  |
@@ -21,8 +21,8 @@ This module provides a beginner-friendly guide to using the Command Line Interfa
 
 ## Level Up content
 
-| Lesson | Video Time | Video | Topics Covered |
-| ------ |:----------:|:-----:| ------------------ |
+| Lesson | Video Time | Video | Skills Covered |
+| ------ |:----------:|:-----:| -------------- |
 [The Shell](./level-up/the-shell.md) | -- | -- | What is *the Shell*?
 [What is a Command?](./level-up/what-is-a-command.md)  | -- | -- | Built-in commands, executable programs, functions and aliases
 [Getting Help](./level-up/getting-help.md) | -- | -- | View the manual page for a command
