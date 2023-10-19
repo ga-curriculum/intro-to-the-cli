@@ -52,7 +52,7 @@ The command creates a file with the `.txt` extension, representing a text file.
 
 We may have created more than we need; let's clean up some. 
 
-## ![You Do](./assets/you-do.png) You Do
+![You Do](./assets/you-do.png)
 
 Delete the file and the directory that you just created.
 
