@@ -4,6 +4,12 @@
 
 **Learning objective:** By the end of this lesson, students will be able to compare and evaluate the advantages and disadvantages of GUIs (Graphical User Interfaces) and CLIs (Command Line Interfaces).
 
+[CLICK ME HTML](../level-up/getting-help.html)
+
+[CLICK ME MD](../level-up/getting-help.md)
+
+[CLICK ME INDIRECT](../level-up/)
+
 ## What is the CLI?
 
 You're already familiar with GUIs or Graphical User Interfaces. A GUI lets users interact with programs, files, and settings through visually-driven interactions. The invention of the GUI ushered in the modern era of democratized computing. Before the GUI though, there was only the CLI or Command Line Interface. The CLI lets users interact with programs, files, and settings through text instead of graphical elements.
