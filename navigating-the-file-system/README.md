@@ -1,6 +1,6 @@
 # ![Intro to the CLI - Navigating the File System](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to navigate the file system from the command line.
+**Learning objective:** By the end of this lesson, students will be able to apply CLI commands like `pwd`, `ls`, and `cd` to efficiently navigate and interpret a computer's file system.
 
 ## `pwd`
 
@@ -57,7 +57,7 @@ You could supply an absolute path as the argument if you wanted.
 
 > 📚 A *command argument* is an additional input provided to a command that gives it the necessary data to accomplish a task.
 >
-> A *relative path* is the path to a directory or file from the perspective of the current working directory.
+> A *relative path* is the path to a directory or file from the perspective of the current working directory. This contrasts from an *absolute path* which is written from the perspective of the *root* or `/` directory. 
 
 Here's what happens when we run that command:
 

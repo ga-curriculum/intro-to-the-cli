@@ -1,6 +1,6 @@
 # ![Intro to the CLI -  Manipulating the File System](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to manipulate the file system by creating and deleting files and directories from the command line.
+**Learning objective:** By the end of this lesson, students will be able to execute CLI commands such as `mkdir`, `touch`, `rm`, and `rmdir` to create, modify, and delete files and directories.
 
 ## Creating
 
@@ -10,7 +10,13 @@ Let's create directories and files! We'll get some additional practice navigatin
 
 The `mkdir` command is used to create directories. The `mkdir` command takes a command argument like the `cd` command did. The meaning of that argument is different in this case though. Here, we will specify the path to the directory we want to create. We'll use a relative path again.
 
-Ensure your prompt indicates that you're in the `~` directory, then let's try it out:
+Ensure your prompt indicates that you're in the `~` directory. If you're not run:
+
+```bash
+cd ~
+```
+
+Once you're there let's try out the `mkdir` command:
 
 ```bash
 mkdir code

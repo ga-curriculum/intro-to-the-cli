@@ -14,7 +14,7 @@ Here's a step-by-step walkthrough of a potential interaction loop:
 1. You open a terminal application on your computer. A graphical interface is displayed for you to type and view text.
 2. Inside the terminal is a shell. It waits to receive executed commands.
 3. You type a command on the command line and then execute the command by pressing `Enter`.
-4. The shell processes the command. Depending on the command, it might handle it directly or call on the OS or another external program to execute it. See the [What is a command?](./what-is-a-command.md) Level Up.
+4. The shell processes the command. Depending on the command, it might handle it directly or call on the OS or another external program to execute it.
 5. The results are displayed back in the terminal for the user to see.
 
 There are a variety of shells available, in this course we will use Zsh

@@ -1,6 +1,6 @@
 # ![Intro to the CLI - Level Up - Flags](./assets/hero-flags.png)
 
-As demonstrated in [Navigating the File System](../navigating-the-file-system/README.md), we can use the `ls` command to see the files in a directory. 
+As demonstrated in `Navigating the File System` we can use the `ls` command to see the files in a directory. 
 
 The default behavior of this command does not display hidden files (files that start with a `.`, like a `.gitignore-global` file). So, how do we view files like this? We can add what is called a *flag* to the `ls` command. Let's do this now!
 
