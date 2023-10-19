@@ -12,7 +12,13 @@ Let's create directories and files! We'll get some additional practice navigatin
 
 The `mkdir` command is used to create directories. The `mkdir` command takes a command argument like the `cd` command did. The meaning of that argument is different in this case though. Here, we will specify the path to the directory we want to create. We'll use a relative path again.
 
-Ensure your prompt indicates that you're in the `~` directory, then let's try it out:
+Ensure your prompt indicates that you're in the `~` directory. If you're not run:
+
+```bash
+cd ~
+```
+
+Once you're there let's try out the `mkdir` command:
 
 ```bash
 mkdir code
