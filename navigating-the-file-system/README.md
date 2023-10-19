@@ -1,6 +1,4 @@
-# Intro to the CLI - Navigating the File System
-
-![Hero image](./assets/hero.png)
+# ![Hero image](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to apply CLI commands like `pwd`, `ls`, and `cd` to efficiently navigate and interpret a computer's file system.
 
