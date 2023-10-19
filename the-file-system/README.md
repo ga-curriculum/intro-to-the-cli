@@ -1,6 +1,4 @@
-# Intro to the CLI - The File System
-
-![Hero image](./assets/hero.png)
+# ![Intro to the CLI - The File System](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to analyze and categorize key components of a computer's file system, including root and home directories, and explain their significance using real-world analogies.
 

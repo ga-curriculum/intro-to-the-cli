@@ -1,6 +1,4 @@
-# Intro to the CLI - Level Up - What is a Command?
-
-![Hero image](./assets/hero-what-is-a-command.png)
+# ![Intro to the CLI - Level Up - What is a Command?](./assets/hero-what-is-a-command.png)
 
 This question is harder to answer than you might initially hope, but in short, a command is anything you can execute directly from the command line.
 

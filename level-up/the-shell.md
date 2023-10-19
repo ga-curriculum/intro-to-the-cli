@@ -1,6 +1,4 @@
-# Intro to the CLI - Level Up - The Shell
-
-![Hero image](./assets/hero-the-shell.png)
+# ![Intro to the CLI - Level Up - The Shell](./assets/hero-the-shell.png)
 
 There's more to our interaction with the command line than we covered in the main content - the shell.
 

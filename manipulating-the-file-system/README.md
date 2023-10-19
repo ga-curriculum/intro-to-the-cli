@@ -1,6 +1,4 @@
-# Intro to the CLI -  Manipulating the File System
-
-![Hero image](./assets/hero.png)
+# ![Intro to the CLI -  Manipulating the File System](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to execute CLI commands such as `mkdir`, `touch`, `rm`, and `rmdir` to create, modify, and delete files and directories.
 
@@ -32,7 +30,7 @@ This is called tab completion, and it is the best.
 
 > ♻ **Repeatable pattern:** Tab completion will let you do less typing and save time. It's also more precise than manually typing paths out because it will only complete valid commands and paths. It's also a great tool in VS Code when we start using it.
 
-![You Do](./assets/you-do.png)
+## You Do
 
 Create another directory of your choice and move into it.
 
@@ -52,7 +50,7 @@ The command creates a file with the `.txt` extension, representing a text file.
 
 We may have created more than we need; let's clean up some. 
 
-![You Do](./assets/you-do.png)
+## You Do
 
 Delete the file and the directory that you just created.
 
