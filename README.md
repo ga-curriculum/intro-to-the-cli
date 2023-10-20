@@ -10,7 +10,7 @@ This module provides a beginner-friendly guide to using the Command Line Interfa
 
 ## Content
 
-| Lesson | Video Time | Video | Skills Covered |
+| Lesson | Video Time | Video | Skills  |
 | ------ |:----------:|:-----:| -------------- |
 | [Concepts](./concepts/README.md)                                         | -- | -- | CLI vs GUI basics, Benefits (Power, Repeatability, Precision, Tools)                                |
 | [Fundamentals](./fundamentals/README.md)                                 | -- | -- | Opening Terminal on macOS, Windows, Ubuntu; Terminal Interface; First Commands; Understanding Errors and Prompts                      |
@@ -21,7 +21,7 @@ This module provides a beginner-friendly guide to using the Command Line Interfa
 
 ## Level Up content
 
-| Lesson | Video Time | Video | Skills Covered |
+| Lesson | Video Time | Video | Skills  |
 | ------ |:----------:|:-----:| -------------- |
 [The Shell](./level-up/the-shell.md) | -- | -- | What is *the Shell*?
 [What is a Command?](./level-up/what-is-a-command.md)  | -- | -- | Built-in commands, executable programs, functions and aliases
