@@ -56,7 +56,7 @@ Delete the file and the directory that you just created.
 
 - Use the `rm` command to delete the `file.txt` file. The syntax for the `rm` command is similar to the `touch` command, but it destroys instead of creates. There is no trash to recover files from after they are deleted with this command, so use it carefully.
 - Navigate out of the current directory so you can delete it. Maybe return to the parent directory like we did earlier?
-- Use the `rmdir` command to delete the directory you created in the **🧠 You Do** section earlier. This command works similarly to the `mkdir` command but will destroy instead of create like the `rm` command. This command will only delete empty directories. 
+- Use the `rmdir` command to delete the directory you created in the **You Do** section earlier. This command works similarly to the `mkdir` command but will destroy instead of create like the `rm` command. This command will only delete empty directories. 
 
 After you've accomplished those tasks, create the directory structure we'll use for the rest of the course.
 
