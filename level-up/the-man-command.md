@@ -1,4 +1,4 @@
-# ![Intro to the CLI - Level Up - Getting Help](./assets/hero-getting-help.png)
+# ![Intro to the CLI - Level Up - The Man Command](./assets/hero-the-man-command.png)
 
 Each command has a different set of flags and arguments it accepts. We can easily view this information without leaving our terminal environment using a command.
 
