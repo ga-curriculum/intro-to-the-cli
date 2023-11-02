@@ -25,7 +25,7 @@ None
 | ------ |:----------:|:-----:| -------------- |
 | [The Shell](./level-up/the-shell.md)                  | -- | -- | What is *the Shell*?                                          |
 | [What is a Command?](./level-up/what-is-a-command.md) | -- | -- | Built-in commands, executable programs, functions and aliases |
-| [Getting Help](./level-up/getting-help.md)            | -- | -- | View the manual page for a command                            |
+| [The `man` command](./level-up/the-man-command.md)            | -- | -- | View the manual page for a command                            |
 | [Flags](./level-up/flags.md)                          | -- | -- | How to use common flags                                       |
 | **Bonus**                                             | -- | -- |                                                               |
 
