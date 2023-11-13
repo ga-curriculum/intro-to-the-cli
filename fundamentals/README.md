@@ -78,7 +78,8 @@ We purposefully ran a command we knew was invalid, so it makes sense that it was
 
 > 🧠 Notice that the arrow `➜` at the start of the line after we received our error is red. All that this means is that the last command we ran failed in some way; we can still write and execute commands on this line.
 
-## Knowledge Check
+## ❓ Review Questions
+
 - What is the prompt?
 - What key do you press to run a command?
 - How do you edit your commands?

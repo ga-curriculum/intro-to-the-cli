@@ -85,7 +85,8 @@ Let's go back to the user home directory. We have a couple of options available 
 
 In this situation, these commands have the same result - changing the current working directory to the user home directory.
 
-## Knowledge Check
+## ❓ Review Questions
+
 - How do you print your working directory?
 - How do you change directories?
 - How do you list the contents of the current directory?

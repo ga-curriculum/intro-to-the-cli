@@ -21,7 +21,7 @@ The lecture setup you'll conduct throughout this course is a great example of th
 
 Instead of having this inconsistent and chaotic experience, we'll conduct setup for lectures on the command line using the same pre-written commands regardless of the OS used. A huge win for us all! 🎉 
 
-## Knowledge Check
+## ❓ Review Questions
 
 - What does CLI stand for?
 - What does GUI stand for?

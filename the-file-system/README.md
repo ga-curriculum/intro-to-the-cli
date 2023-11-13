@@ -6,7 +6,7 @@
 
 Before navigating the file system, we should understand what it is. The file system is the organizational structure of a computer. 
 
-Just as products in a store are organized by their broadest categories, then divided into sections with aisles full of shelves holding individual products, the files on a computer are organized into directories (a.k.a. folders in a GUI).
+Just as products in a store are organized by their broadest categories, then divided into sections with aisles full of shelves holding individual products, the files on a computer are organized into directories (also commonly called folders in a GUI).
 
 Imagine you were finding a can of soup at a store. You would start in the store, go to the grocery section, find the canned goods aisle, look for soup, and then find the specific one you want.
 
@@ -28,7 +28,7 @@ Another visual for you:
 
 ![Our beats in the file system!](./assets/beats.png)
 
-Above, you can see the path to the `beats` file visualized. The word path, or more accurately, *absolute path*, actually has a meaning in this context - it's the unique location for every file or directory in the file system. Each directory in the path is followed by a `/`. The *absolute path* for the beats file is:
+Above, you can see the path to the `beats` file visualized. The word path, or more accurately, *absolute path*, actually has a meaning in this context - it's the unique location for every file or directory in the file system. Each directory in the path is followed by a `/`. The *absolute path* for the `beats` file is:
 
 ```plain
 /Users/student/Music/beats
@@ -46,7 +46,7 @@ Back to the store example, just like how departments, aisles, and shelves are co
 
 However, the computer itself won't stop you from doing illogical things. If you wanted to throw every file you ever created onto your desktop, you could (but please don't).
 
-Again, just like in our store example, there's a whole lot more going on with the file system than just this one beats file!
+Again, just like in our store example, there's a whole lot more going on with the file system than just this one `beats` file!
 
 ![Our file system. Please clean your desktop!](./assets/file-system.png)
 
@@ -61,7 +61,8 @@ Let's establish some shared language using this visual. We'll use the `student` 
 
 One last thing to note before we move on. Directories can hold both directories and files - see the `Downloads` directory above.
 
-## Knowledge Check
+## ❓ Review Questions
+
 - What is a directory called in a GUI?
 - What is the absolute path to a file or directory?
 - How many parents can a file or directory have?
