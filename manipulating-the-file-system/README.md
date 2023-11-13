@@ -10,19 +10,19 @@ Let's create directories and files! We'll get some additional practice navigatin
 
 The `mkdir` command is used to create directories. The `mkdir` command takes a command argument like the `cd` command did. The meaning of that argument is different in this case though. Here, we will specify the path to the directory we want to create. We'll use a relative path again.
 
-Ensure your prompt indicates that you're in the `~` directory. If you're not run:
+Ensure your prompt indicates that you're in the `~` directory. If you're not, run:
 
 ```bash
 cd ~
 ```
 
-Once you're there let's try out the `mkdir` command:
+Once you're there, let's try out the `mkdir` command:
 
 ```bash
 mkdir code
 ```
 
-Running this code will create a `code` directory! Let's move into that directory with the `cd` command.
+Running this command will create a `code` directory! Let's move into that directory with the `cd` command.
 
 This time, only type `cd co` into the command line, then hit the `Tab` key. This should autocomplete the rest of the line, and it should now say `cd code`. Execute that command!
 
@@ -72,3 +72,8 @@ All lecture material will assume you have this base directory structure, but if 
 When you're done, you should be able to run the `ls` command in the `ga` directory and see the following:
 
 ![The directory structure for the course!](./assets/course-dir-structure.png)
+## Knowledge Check
+- How do you create an empty directory?
+- How do you create an empty file?
+- How do you delete a file?
+- How do you delete an empty directory?

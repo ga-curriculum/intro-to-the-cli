@@ -14,9 +14,9 @@ pwd
 
 ![The result of running the pwd command as the student user](./assets/pwd.png)
 
-The screenshot above shows the directory we're in right now (`/Users/student`). Your device likely shows something different, and that's expected.
+The screenshot above shows the path to the directory we're in right now (`/Users/student`). Your device likely shows something different, and that's expected. The home directory is where we start when we launch the terminal app.
 
-This is important. Just like when you have a location in a store while walking around it, we have a location in the file system when navigating it. This directory is where we start when we launch the terminal app.
+This is important. Just like when you have a location in a store while walking around it, we have a location in the file system when navigating it. If in the process of moving the file system in the CLI, you're not sure where you are, run this command to see the path to your current location.  
 
 ## `ls`
 
@@ -41,7 +41,7 @@ The output of this command may be different for you, but that's okay! If you're 
 
 We can change the current directory with the `cd` command. This command works slightly differently than the other ones we've covered so far because we need to supply the command with a *command argument*. This is additional information we provide to the command to help it do its job. In this case, the *command argument* tells the `cd` command where we'd like to go - a path to a directory.
 
-We just ran the `ls` command that gave us a list of valid destinations, including the `Music` directory. You might not have this directory. If not, pick another, or just take in the action.
+We just ran the `ls` command that gave us a list of valid destinations, including the `Music` directory. You might not have this directory. If not, pick another one.
 
 Let's write and execute a command to change to that directory.
 
@@ -84,3 +84,10 @@ Let's go back to the user home directory. We have a couple of options available 
   ```
 
 In this situation, these commands have the same result - changing the current working directory to the user home directory.
+
+## Knowledge Check
+- How do you print your working directory?
+- How do you change directories?
+- How do you list the contents of the current directory?
+- How do you move to the parent of the current directory?
+- How do you cycle through all the previous commands you have executed?
