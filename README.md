@@ -10,8 +10,8 @@ None
 
 ## Content
 
-| Lesson | Video Time | Video | Skills  |
-| ------ |:----------:|:-----:| -------------- |
+| Lesson | Video Time | Video | Skills |
+| ------ |:----------:|:-----:| ------ |
 | [Concepts](./concepts/README.md)                                         | -- | -- | CLI vs GUI basics, Benefits (Power, Repeatability, Precision, Tools)                                                                            |
 | [Fundamentals](./fundamentals/README.md)                                 | -- | -- | Opening Terminal on macOS, Windows, Ubuntu; Terminal Interface; First Commands; Understanding Errors and Prompts                                |
 | [The File System](./the-file-system/README.md)                           | -- | -- | Understanding File System; Root and Home Directories; Absolute Paths; File and Directory Organization; Parent-Child Relationship in Directories |
@@ -21,8 +21,8 @@ None
 
 ## Level Up content
 
-| Lesson | Video Time | Video | Skills  |
-| ------ |:----------:|:-----:| -------------- |
+| Lesson | Video Time | Video | Skills |
+| ------ |:----------:|:-----:| ------ |
 | [The Shell](./level-up/the-shell.md)                  | -- | -- | What is *the Shell*?                                          |
 | [What is a Command?](./level-up/what-is-a-command.md) | -- | -- | Built-in commands, executable programs, functions and aliases |
 | [The `man` command](./level-up/the-man-command.md)    | -- | -- | View the manual page for a command                            |
