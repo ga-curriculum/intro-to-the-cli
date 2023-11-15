@@ -53,6 +53,8 @@ In this line, `cd` is the command, and `Music` is the *command argument*. Notice
 
 `Music` is also a *relative path*. A *relative path* is the path from the perspective of the current directory. We'll use relative paths more often than absolute paths. Think back to the store example - if you wanted to go from the canned goods aisle to the bread aisle, you wouldn't leave the store and come back in. You'd just navigate from the canned goods aisle to the bread aisle.
 
+![Relative Path](./assets/relative-path.png)
+
 You could supply an absolute path as the argument if you wanted.
 
 > 📚 A *command argument* is an additional input provided to a command that gives it the necessary data to accomplish a task.
