@@ -17,4 +17,4 @@ Here's a step-by-step walkthrough of a potential interaction loop:
 4. The shell processes the command. Depending on the command, it might handle it directly or call on the OS or another external program to execute it.
 5. The results are displayed back in the terminal for the user to see.
 
-There are a variety of shells available, in this course we will use Zsh
+There are a variety of shells available, in this course we will use Zsh.

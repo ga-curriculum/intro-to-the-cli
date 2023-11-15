@@ -17,7 +17,7 @@ None
 | [The File System](./the-file-system/README.md)                           | -- | -- | Understanding File System; Root and Home Directories; Absolute Paths; File and Directory Organization; Parent-Child Relationship in Directories |
 | [Navigating the File System](./navigating-the-file-system/README.md)     | -- | -- | File system structure, pwd, ls, cd, command argument, relative and absolute paths                                                               |
 | [Manipulating the File System](./manipulating-the-file-system/README.md) | -- | -- | Creating and deleting files and directories, mkdir, touch, rm, rmdir, tab completion, directory structure                                       |
-| **Total Module**                                                         | -- | -- |                                                                                                                                                 |
+| **Total Content**                                                        | -- | -- |                                                                                                                                                 |
 
 ## Level Up content
 
@@ -25,9 +25,9 @@ None
 | ------ |:----------:|:-----:| -------------- |
 | [The Shell](./level-up/the-shell.md)                  | -- | -- | What is *the Shell*?                                          |
 | [What is a Command?](./level-up/what-is-a-command.md) | -- | -- | Built-in commands, executable programs, functions and aliases |
-| [The `man` command](./level-up/the-man-command.md)            | -- | -- | View the manual page for a command                            |
+| [The `man` command](./level-up/the-man-command.md)    | -- | -- | View the manual page for a command                            |
 | [Flags](./level-up/flags.md)                          | -- | -- | How to use common flags                                       |
-| **Bonus**                                             | -- | -- |                                                               |
+| **Total Level Up Content**                            | -- | -- |                                                               |
 
 ## References
 
