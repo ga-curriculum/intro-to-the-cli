@@ -72,10 +72,3 @@ All lecture material will assume you have this base directory structure, but if 
 When you're done, you should be able to run the `ls` command in the `ga` directory and see the following:
 
 ![The directory structure for the course!](./assets/course-dir-structure.png)
-
-## ❓ Review Questions
-
-- How do you create an empty directory?
-- How do you create an empty file?
-- How do you delete a file?
-- How do you delete an empty directory?

@@ -60,10 +60,3 @@ Let's establish some shared language using this visual. We'll use the `student` 
 - It only has one *parent* (`Users`). A file or directory may only ever have a single parent.
 
 One last thing to note before we move on. Directories can hold both directories and files - see the `Downloads` directory above.
-
-## ❓ Review Questions
-
-- What is a directory called in a GUI?
-- What is the absolute path to a file or directory?
-- How many parents can a file or directory have?
-- How many children can a directory have?
