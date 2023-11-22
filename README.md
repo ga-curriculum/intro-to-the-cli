@@ -4,7 +4,7 @@
 
 This module provides a beginner-friendly guide to using the Command Line Interface (CLI), teaching students how to navigate and manipulate their computer's file system with text commands. It starts with understanding what the CLI is and its utility, then progresses to navigating through folders, checking folder contents, creating new folders and files, and safely deleting unnecessary items.
 
-## Prerequisites 
+## Prerequisites
 
 None
 

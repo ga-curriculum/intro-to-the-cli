@@ -2,10 +2,7 @@
 
 This section provides questions that can be used in various teaching formats. They are suitable for integration into lectures, Slack polls, Learning Management System (LMS) checkpoints, or as part of unit assessments.
 
-
-
 ## Concepts
-
 
 ## Fundamentals
 
@@ -45,11 +42,8 @@ This section provides questions that can be used in various teaching formats. Th
 
 ## The Shell
 
-
 ## What is a Command?
 
-
 ## The man command
-
 
 ## Flags

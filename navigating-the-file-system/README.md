@@ -16,7 +16,7 @@ pwd
 
 The screenshot above shows the path to the directory we're in right now (`/Users/student`). Your device likely shows something different, and that's expected. The home directory is where we start when we launch the terminal app.
 
-This is important. Just like when you have a location in a store while walking around it, we have a location in the file system when navigating it. If in the process of moving the file system in the CLI, you're not sure where you are, run this command to see the path to your current location.  
+This is important. Just like when you have a location in a store while walking around it, we have a location in the file system when navigating it. If in the process of moving the file system in the CLI, you're not sure where you are, run this command to see the path to your current location.
 
 ## `ls`
 
@@ -33,7 +33,7 @@ ls
 
 The output of this command may be different for you, but that's okay! If you're on Windows and just installed WSL, you may not see anything here; that's also okay and expected!
 
- The visual below might help demonstrate what's happening here. The `student` directory (the current working directory) has been highlighted in blue. From this directory, the `ls` command will display its direct children, shown in dark gray. The other files and directories still exist. They aren't shown by this command though. 
+ The visual below might help demonstrate what's happening here. The `student` directory (the current working directory) has been highlighted in blue. From this directory, the `ls` command will display its direct children, shown in dark gray. The other files and directories still exist. They aren't shown by this command though.
 
 ![A diagram of what we're able to view by running the ls command in the student directory in the context of the rest of the file system](./assets/ls-diagram.png)
 
@@ -49,7 +49,7 @@ Let's write and execute a command to change to that directory.
 cd Music
 ```
 
-In this line, `cd` is the command, and `Music` is the *command argument*. Notice the space between them. 
+In this line, `cd` is the command, and `Music` is the *command argument*. Notice the space between them.
 
 `Music` is also a *relative path*. A *relative path* is the path from the perspective of the current directory. We'll use relative paths more often than absolute paths. Think back to the store example - if you wanted to go from the canned goods aisle to the bread aisle, you wouldn't leave the store and come back in. You'd just navigate from the canned goods aisle to the bread aisle.
 
@@ -59,7 +59,7 @@ You could supply an absolute path as the argument if you wanted.
 
 > 📚 A *command argument* is an additional input provided to a command that gives it the necessary data to accomplish a task.
 >
-> A *relative path* is the path to a directory or file from the perspective of the current working directory. This contrasts from an *absolute path* which is written from the perspective of the *root* or `/` directory. 
+> A *relative path* is the path to a directory or file from the perspective of the current working directory. This contrasts from an *absolute path* which is written from the perspective of the *root* or `/` directory.
 
 Here's what happens when we run that command:
 
@@ -77,7 +77,7 @@ Let's go back to the user home directory. We have a couple of options available 
 
   ```bash
   cd ~
-  ``` 
+  ```
 
 - We can also use `..`, which represents the parent directory of the current directory. This method works because the `Music` directory is the child of the user home directory. Here's the command to do this:
 

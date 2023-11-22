@@ -17,6 +17,6 @@ The CLI is great for more advanced users like us because it has quite a few bene
 - **Precision** - Has an imprecise hand movement ever caused you to click the wrong icon in a GUI before? Clicks introduce chaos, and the CLI helps us tame that chaos. Commands can be written and edited before they are executed. Combined with the aspect of repeatability above, the CLI gives us a level of rigid precision that clicking in a GUI doesn't provide.
 - **Tools** - Some tools we use as developers only exist in the CLI.
 
-The lecture setup you'll conduct throughout this course is a great example of these benefits. Without the CLI, we would need different setup sections for macOS, Windows 10, Windows 11, and Ubuntu. Each section would need instructions and screenshots for completing setup steps using the GUI. Any screenshots would likely need to change as OS updates are released, and the GUI changes. 
+The lecture setup you'll conduct throughout this course is a great example of these benefits. Without the CLI, we would need different setup sections for macOS, Windows 10, Windows 11, and Ubuntu. Each section would need instructions and screenshots for completing setup steps using the GUI. Any screenshots would likely need to change as OS updates are released, and the GUI changes.
 
-Instead of having this inconsistent and chaotic experience, we'll conduct setup for lectures on the command line using the same pre-written commands regardless of the OS used. A huge win for us all! 🎉 
+Instead of having this inconsistent and chaotic experience, we'll conduct setup for lectures on the command line using the same pre-written commands regardless of the OS used. A huge win for us all! 🎉

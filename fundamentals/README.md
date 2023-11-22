@@ -42,7 +42,7 @@ Here, you'll see the *prompt*. Let's dissect it:
 2. The tilde `~` indicates our current location in the file system. We'll cover this more soon.
 3. The cursor `█`. When you start typing, this is where the text will appear and is how we write commands to be executed.
 
-> 📚 The *prompt* is a sequence of characters used in a command-line interface to indicate readiness to accept commands. 
+> 📚 The *prompt* is a sequence of characters used in a command-line interface to indicate readiness to accept commands.
 
 ## Your first command
 

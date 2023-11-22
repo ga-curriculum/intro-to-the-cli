@@ -1,4 +1,4 @@
-# ![Intro to the CLI - Release Notes](./assets/hero-release-notes.png)
+# ![Intro to the CLI - Release Notes](../assets/release-notes.png)
 
 ## Version 1.0 - Updates from legacy content
 
@@ -6,7 +6,7 @@ This release modularizes the legacy Intro to the CLI lecture and provides extens
 
 ### Release details
 
-**Additions**
+#### Additions
 
 - Add a microlesson introducing the file system and how it works.
 - Add definitions for terms throughout.
@@ -14,8 +14,7 @@ This release modularizes the legacy Intro to the CLI lecture and provides extens
 - Add details on what a command is in the What is a Command? Level Up.
 - Students now use the whoami command as their first command instead of `pwd`. `pwd` is still covered after they are introduced to the file system.
 
-
-**Changes**
+#### Changes
 
 - Students are now introduced to the `rm` and `rmdir` commands in a You Do section.
 - Expand on written lecture material to provide a more straightforward outline for instructors to deliver content with and to provide more thorough written documentation for students.
@@ -28,10 +27,10 @@ This release modularizes the legacy Intro to the CLI lecture and provides extens
   - `labs`
   - `projects`
   - `sandbox`
-  
+
   All lectures will use these directories for their setup.
 
-**Removals**
+#### Removals
 
 - Remove the `cat` command.
 - Remove the `rm -rf` command.

@@ -1,4 +1,4 @@
-# ![Intro to the CLI - Instructor Guide](./assets/hero-instructor-guide.png)
+# ![Intro to the CLI - Instructor Guide](../assets/instructor-guide.png)
 
 ## General
 
@@ -6,7 +6,7 @@ If your students haven't completed installfest or do not install oh-my-zsh then 
 
 ## Navigating the File System and Manipulating the File System
 
-In these sections you may find it useful to use the `tree` command to demonstrate how our view of the file system is changing 
+In these sections you may find it useful to use the `tree` command to demonstrate how our view of the file system is changing.
 
 ---
 

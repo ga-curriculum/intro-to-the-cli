@@ -4,7 +4,7 @@
 
 ## What is the file system?
 
-Before navigating the file system, we should understand what it is. The file system is the organizational structure of a computer. 
+Before navigating the file system, we should understand what it is. The file system is the organizational structure of a computer.
 
 Just as products in a store are organized by their broadest categories, then divided into sections with aisles full of shelves holding individual products, the files on a computer are organized into directories (also commonly called folders in a GUI).
 
@@ -54,9 +54,9 @@ The path from the *root* to the music file is still highlighted, but we've added
 
 Many directories shown here would presumably have something inside them (although they don't have to). These details are not shown for simplicity.
 
-Let's establish some shared language using this visual. We'll use the `student` directory as an example: 
+Let's establish some shared language using this visual. We'll use the `student` directory as an example:
 
-- The `student` directory has many *children* (`Applications`, `Downloads`, `Movies`, and so on). 
+- The `student` directory has many *children* (`Applications`, `Downloads`, `Movies`, and so on).
 - It only has one *parent* (`Users`). A file or directory may only ever have a single parent.
 
 One last thing to note before we move on. Directories can hold both directories and files - see the `Downloads` directory above.
