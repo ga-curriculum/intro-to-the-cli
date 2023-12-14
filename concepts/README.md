@@ -20,5 +20,3 @@ The CLI is great for more advanced users like us because it has quite a few bene
 The lecture setup you'll conduct throughout this course is a great example of these benefits. Without the CLI, we would need different setup sections for macOS, Windows 10, Windows 11, and Ubuntu. Each section would need instructions and screenshots for completing setup steps using the GUI. Any screenshots would likely need to change as OS updates are released, and the GUI changes.
 
 Instead of having this inconsistent and chaotic experience, we'll conduct setup for lectures on the command line using the same pre-written commands regardless of the OS used. A huge win for us all! 🎉
-
-[Back to Main Page](../canvas-landing-page.md)
