@@ -12,22 +12,22 @@ None
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [Concepts](./concepts/README.md)                                         | -- | -- | CLI vs GUI basics, Benefits (Power, Repeatability, Precision, Tools)                                                                            |
-| [Fundamentals](./fundamentals/README.md)                                 | -- | -- | Opening Terminal on macOS, Windows, Ubuntu; Terminal Interface; First Commands; Understanding Errors and Prompts                                |
-| [The File System](./the-file-system/README.md)                           | -- | -- | Understanding File System; Root and Home Directories; Absolute Paths; File and Directory Organization; Parent-Child Relationship in Directories |
-| [Navigating the File System](./navigating-the-file-system/README.md)     | -- | -- | File system structure, pwd, ls, cd, command argument, relative and absolute paths                                                               |
-| [Manipulating the File System](./manipulating-the-file-system/README.md) | -- | -- | Creating and deleting files and directories, mkdir, touch, rm, rmdir, tab completion, directory structure                                       |
-| **Total content**                                                        | -- | -- |                                                                                                                                                 |
+| [Concepts](./concepts/README.md)                                         | 2 min  | [link](https://generalassembly.wistia.com/medias/nbzyi785zx) | CLI vs GUI basics, Benefits (Power, Repeatability, Precision, Tools)                                                                            |
+| [Fundamentals](./fundamentals/README.md)                                 | 6 min  | [link](https://generalassembly.wistia.com/medias/vfv990huj6) | Opening Terminal on macOS, Windows, Ubuntu; Terminal Interface; First Commands; Understanding Errors and Prompts                                |
+| [The File System](./the-file-system/README.md)                           | 10 min | [link](https://generalassembly.wistia.com/medias/qfgvgf3uux) | Understanding File System; Root and Home Directories; Absolute Paths; File and Directory Organization; Parent-Child Relationship in Directories |
+| [Navigating the File System](./navigating-the-file-system/README.md)     | 10 min | [link](https://generalassembly.wistia.com/medias/jyaw9d7kde) | File system structure, pwd, ls, cd, command argument, relative and absolute paths                                                               |
+| [Manipulating the File System](./manipulating-the-file-system/README.md) | 9 min  | [link](https://generalassembly.wistia.com/medias/cbo1s6gqvc) | Creating and deleting files and directories, mkdir, touch, rm, rmdir, tab completion, directory structure                                       |
+| **Total content**                                                        | 37 min | --                                                           |                                                                                                                                                 |
 
 ## Level Up content
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [The Shell](./level-up/the-shell.md)                  | -- | -- | What is *the Shell*?                                          |
-| [What is a Command?](./level-up/what-is-a-command.md) | -- | -- | Built-in commands, executable programs, functions and aliases |
-| [The `man` command](./level-up/the-man-command.md)    | -- | -- | View the manual page for a command                            |
-| [Flags](./level-up/flags.md)                          | -- | -- | How to use common flags                                       |
-| **Total Level Up content**                            | -- | -- |                                                               |
+| [The Shell](./level-up/the-shell.md)                  | 4 min  | [link](https://generalassembly.wistia.com/medias/sj436hzj32) | What is *the Shell*?                                          |
+| [What is a Command?](./level-up/what-is-a-command.md) | 4 min  | [link](https://generalassembly.wistia.com/medias/5vzppgahqo) | Built-in commands, executable programs, functions and aliases |
+| [The `man` command](./level-up/the-man-command.md)    | 2 min  | [link](https://generalassembly.wistia.com/medias/ajcvgx4gmk) | View the manual page for a command                            |
+| [Flags](./level-up/flags.md)                          | 4 min  | [link](https://generalassembly.wistia.com/medias/f4q4yjo955) | How to use common flags                                       |
+| **Total Level Up content**                            | 14 min | --                                                           |                                                               |
 
 ## References
 
