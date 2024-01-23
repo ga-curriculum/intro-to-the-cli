@@ -27,4 +27,4 @@ This module provides a beginner-friendly guide to using the Command Line Interfa
 
 ## References
 
-📖 [Reference Materials](./references/README.md)
+📖 [Reference Materials](../references/README.md)
