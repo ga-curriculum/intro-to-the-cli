@@ -1,5 +1,7 @@
 # ![Intro to the CLI - Level Up - What is a Command?](./assets/hero-what-is-a-command.png)
 
+**Learning objective:** By the end of this lesson, students will understand the different types of commands used in the command line, including built-in commands, executable programs, functions, and aliases.
+
 This question is harder to answer than you might initially hope, but in short, a command is anything you can execute directly from the command line.
 
 What makes this difficult to define is that there are four main types of commands you might use:
