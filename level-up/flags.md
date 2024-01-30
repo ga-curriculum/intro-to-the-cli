@@ -1,5 +1,7 @@
 # ![Intro to the CLI - Level Up - Flags](./assets/hero-flags.png)
 
+**Learning objective:** By the end of this lesson, students will be able to effectively use and combine flags with the `ls` command to modify its output.
+
 As demonstrated in `Navigating the File System` we can use the `ls` command to see the files in a directory.
 
 The default behavior of this command does not display hidden files (files that start with a `.`, like a `.gitignore-global` file). So, how do we view files like this? We can add what is called a *flag* to the `ls` command. Let's do this now!
