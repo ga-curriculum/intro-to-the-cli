@@ -19,9 +19,6 @@ This module provides a beginner-friendly guide to using the Command Line Interfa
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [The Shell](../level-up/the-shell.md)                  | 4 min  | [link](https://generalassembly.wistia.com/medias/sj436hzj32) | What is *the Shell*?                                           |
-| [What is a Command?](../level-up/what-is-a-command.md) | 4 min  | [link](https://generalassembly.wistia.com/medias/5vzppgahqo) | Built-in commands, executable programs, functions and aliases. |
-| [The `man` Command](../level-up/the-man-command.md)    | 2 min  | [link](https://generalassembly.wistia.com/medias/ajcvgx4gmk) | View the manual page for a command.                            |
 | [Flags](../level-up/flags.md)                          | 4 min  | [link](https://generalassembly.wistia.com/medias/f4q4yjo955) | How to use common flags.                                       |
 | **Total Level Up content**                             | 14 min | --                                                           |                                                                |
 
