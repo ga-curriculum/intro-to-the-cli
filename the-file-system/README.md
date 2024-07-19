@@ -30,7 +30,7 @@ Another visual for you:
 
 Above, you can see the path to the `beats` file visualized. The word path, or more accurately, *absolute path*, actually has a meaning in this context - it's the unique location for every file or directory in the file system. Each directory in the path is followed by a `/`. The *absolute path* for the `beats` file is:
 
-```plain
+```plaintext
 /Users/student/Music/beats
 ```
 
