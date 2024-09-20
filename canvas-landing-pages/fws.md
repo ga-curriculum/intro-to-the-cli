@@ -1,4 +1,7 @@
-# ![Intro to the CLI](../assets/hero.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Intro to the CLI</span>
+</h1>
 
 ## About
 

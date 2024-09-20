@@ -1,0 +1,67 @@
+import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/static/v2/pkl/template.pkl" as Template
+
+// Add microlessons here, in the order they should be delivered
+
+concepts = new Template.Microlesson {
+  friendlyName = "Concepts"
+  dirName = "concepts"
+  type = "Content"
+  videoUrl = ""
+}
+
+fundamentals = new Template.Microlesson {
+  friendlyName = "Fundamentals"
+  dirName = "fundamentals"
+  type = "Content"
+  videoUrl = ""
+}
+
+theFileSystem = new Template.Microlesson {
+  friendlyName = "The File System"
+  dirName = "the-file-system"
+  type = "Content"
+  videoUrl = ""
+}
+
+navigatingTheFileSystem = new Template.Microlesson {
+  friendlyName = "Navigating the File System"
+  dirName = "navigating-the-file-system"
+  type = "Content"
+  videoUrl = ""
+}
+
+manipulatingTheFileSystem = new Template.Microlesson {
+  friendlyName = "Manipulating the File System"
+  dirName = "manipulating-the-file-system"
+  type = "Content"
+  videoUrl = ""
+}
+
+theShell = new Template.Microlesson {
+  friendlyName = "The Shell"
+  dirName = "the-shell"
+  type = "Content"
+  videoUrl = ""
+}
+
+whatIsACommand = new Template.Microlesson {
+  friendlyName = "What Is a Command"
+  dirName = "what-is-a-command"
+  type = "Content"
+  videoUrl = ""
+}
+
+theManCommand = new Template.Microlesson {
+  friendlyName = "The <code>man</code> Command"
+  dirName = "the-man-command"
+  type = "Content"
+  videoUrl = ""
+}
+
+flags = new Template.Microlesson {
+  friendlyName = "Flags"
+  dirName = "flags"
+  type = "Content"
+  videoUrl = ""
+}
+

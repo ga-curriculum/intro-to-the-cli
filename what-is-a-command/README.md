@@ -1,4 +1,7 @@
-# ![Intro to the CLI - Level Up - What is a Command?](./assets/hero-what-is-a-command.png)
+<h1>
+  <span class="headline">Intro to the CLI</span>
+  <span class="subhead">What Is a Command</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will understand the different types of commands used in the command line, including built-in commands, executable programs, functions, and aliases.
 

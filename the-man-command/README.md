@@ -1,4 +1,7 @@
-# ![Intro to the CLI - Level Up - The Man Command](./assets/hero-the-man-command.png)
+<h1>
+  <span class="headline">Intro to the CLI</span>
+  <span class="subhead">The <code>man</code> Command</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to utilize the `man` command and `--help` flag to access and interpret the manual pages and help information for various commands.
 

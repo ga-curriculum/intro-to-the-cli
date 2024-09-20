@@ -1,4 +1,7 @@
-# ![Intro to the CLI - References](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to the CLI</span>
+  <span class="subhead">References</span>
+</h1>
 
 ## Lesson references
 

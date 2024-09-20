@@ -1,4 +1,7 @@
-# ![Intro to the CLI - Instructor Guide](../assets/instructor-guide.png)
+<h1>
+  <span class="headline">Intro to the CLI</span>
+  <span class="subhead">Instructor Guide</span>
+</h1>
 
 ## General
 

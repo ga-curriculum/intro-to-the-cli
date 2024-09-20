@@ -1,4 +1,7 @@
-# ![Intro to the CLI - Level Up - Flags](./assets/hero-flags.png)
+<h1>
+  <span class="headline">Intro to the CLI</span>
+  <span class="subhead">Flags</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to effectively use and combine flags with the `ls` command to modify its output.
 

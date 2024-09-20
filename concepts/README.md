@@ -1,4 +1,7 @@
-# ![Intro to the CLI - Concepts](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to the CLI</span>
+  <span class="subhead">Concepts</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to compare and evaluate the advantages and disadvantages of GUIs (Graphical User Interfaces) and CLIs (Command Line Interfaces).
 
