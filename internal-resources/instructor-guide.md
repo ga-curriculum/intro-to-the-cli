@@ -17,4 +17,4 @@ In these sections you may find it useful to use the `tree` command to demonstrat
 
 We are constantly working to improve our resources for instructors and students.
 
-**Have something to contribute to this Instructor Guide?** [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/TEMPLATE-Lab-Solution-Code-Module).
+**Have something to contribute to this Instructor Guide?** [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/module-feedback.md).
