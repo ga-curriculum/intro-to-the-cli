@@ -13,4 +13,4 @@ For example, you can run `man rm` to view the list of flags that the `rm` comman
 
 Since man is also a command, you can even run `man man` to view more details about the man command.
 
-Some commands may also have the `--help` or `-h` flag. This flag can be used to display the help information for some commands. See the [Flags Level Up](./flags.md) for more details about flags.
+Some commands may also have the `--help` or `-h` flag. This flag can be used to display the help information for some commands. See the `Flags Lesson` for more details about flags.
