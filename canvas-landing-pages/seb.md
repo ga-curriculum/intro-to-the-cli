@@ -16,7 +16,7 @@ This module provides a beginner-friendly guide to using the Command Line Interfa
 | [The File System](../the-file-system/README.md)                           |   10 min   | [link](https://generalassembly.wistia.com/medias/qfgvgf3uux) | Understanding the file system; Root and Home directories; absolute paths; file and directory organization; parent-child relationship in directories. |
 | [Navigating the File System](../navigating-the-file-system/README.md)     |   10 min   | [link](https://generalassembly.wistia.com/medias/jyaw9d7kde) | File system structure, `pwd`, `ls`, `cd`, command arguments, relative and absolute paths.                                                            |
 | [Manipulating the File System](../manipulating-the-file-system/README.md) |   9 min    | [link](https://generalassembly.wistia.com/medias/cbo1s6gqvc) | Creating and deleting files and directories, `mkdir`, `touch`, `rm`, `rmdir`, tab completion, and directory structure.                               |
-| **Total content**                                                         |   37 min   |                              --                              |                                                                                                                                                      |
+| **Total content**                                                         |   37 min   |                                                              |                                                                                                                                                      |
 
 ## Level Up content
 
@@ -26,7 +26,7 @@ This module provides a beginner-friendly guide to using the Command Line Interfa
 | [What is a Command?](../what-is-a-command/README.md) |   4 min    | [link](https://generalassembly.wistia.com/medias/5vzppgahqo) | Built-in commands, executable programs, functions and aliases. |
 | [The `man` command](../the-man-command/README.md)    |   2 min    | [link](https://generalassembly.wistia.com/medias/ajcvgx4gmk) | View the manual page for a command.                            |
 | [Flags](../flags/README.md)                          |   4 min    | [link](https://generalassembly.wistia.com/medias/f4q4yjo955) | How to use common flags.                                       |
-| **Total Level Up content**                           |   14 min   |                              --                              |                                                                |
+| **Total Level Up content**                           |   14 min   |                                                              |                                                                |
 
 ## References
 

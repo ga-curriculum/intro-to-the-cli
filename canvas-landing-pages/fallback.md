@@ -21,7 +21,7 @@ This module provides a beginner-friendly guide to using the Command Line Interfa
 | [What is a Command?](../what-is-a-command/README.md)                      |   4 min    | [link](https://generalassembly.wistia.com/medias/5vzppgahqo) | Built-in commands, executable programs, functions and aliases.                                                                                       |
 | [The `man` command](../the-man-command/README.md)                         |   2 min    | [link](https://generalassembly.wistia.com/medias/ajcvgx4gmk) | View the manual page for a command.                                                                                                                  |
 | [Flags](../flags/README.md)                                               |   4 min    | [link](https://generalassembly.wistia.com/medias/f4q4yjo955) | How to use common flags.                                                                                                                             |
-| **Total content**                                                         |   51 min   |                              --                              |                                                                                                                                                      |
+| **Total content**                                                         |   51 min   |                                                              |                                                                                                                                                      |
 
 ## References
 
