@@ -1,0 +1,256 @@
+{
+  "org": {
+    "friendlyName": "Modular Curriculum All Courses",
+    "name": "modular-curriculum-all-courses"
+  },
+  "repo": {
+    "friendlyName": "Intro to the CLI",
+    "name": "intro-to-the-cli",
+    "type": "Lesson"
+  },
+  "courses": [
+    {
+      "name": "fallback",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Fundamentals",
+          "dirName": "fundamentals",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "The File System",
+          "dirName": "the-file-system",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Navigating the File System",
+          "dirName": "navigating-the-file-system",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Manipulating the File System",
+          "dirName": "manipulating-the-file-system",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "The Shell",
+          "dirName": "the-shell",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "What Is a Command",
+          "dirName": "what-is-a-command",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "The <code>man</code> Command",
+          "dirName": "the-man-command",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Flags",
+          "dirName": "flags",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    },
+    {
+      "name": "fws",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Fundamentals",
+          "dirName": "fundamentals",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "The File System",
+          "dirName": "the-file-system",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Navigating the File System",
+          "dirName": "navigating-the-file-system",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Manipulating the File System",
+          "dirName": "manipulating-the-file-system",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "The Shell",
+          "dirName": "the-shell",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "What Is a Command",
+          "dirName": "what-is-a-command",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "The <code>man</code> Command",
+          "dirName": "the-man-command",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Flags",
+          "dirName": "flags",
+          "type": "Level Up content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    },
+    {
+      "name": "seb",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Fundamentals",
+          "dirName": "fundamentals",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "The File System",
+          "dirName": "the-file-system",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Navigating the File System",
+          "dirName": "navigating-the-file-system",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Manipulating the File System",
+          "dirName": "manipulating-the-file-system",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "The Shell",
+          "dirName": "the-shell",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "What Is a Command",
+          "dirName": "what-is-a-command",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "The <code>man</code> Command",
+          "dirName": "the-man-command",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Flags",
+          "dirName": "flags",
+          "type": "Level Up content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    }
+  ]
+}

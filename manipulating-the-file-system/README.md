@@ -1,4 +1,7 @@
-# ![Intro to the CLI -  Manipulating the File System](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to the CLI</span>
+  <span class="subhead">Manipulating the File System</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to execute CLI commands such as `mkdir`, `touch`, `rm`, and `rmdir` to create, modify, and delete files and directories.
 

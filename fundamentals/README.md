@@ -1,4 +1,7 @@
-# ![Intro to the CLI - Fundamentals](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to the CLI</span>
+  <span class="subhead">Fundamentals</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to open their OS's terminal application and run basic commands.
 

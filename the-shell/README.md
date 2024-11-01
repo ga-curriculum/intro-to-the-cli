@@ -1,4 +1,7 @@
-# ![Intro to the CLI - Level Up - The Shell](./assets/hero-the-shell.png)
+<h1>
+  <span class="headline">Intro to the CLI</span>
+  <span class="subhead">The Shell</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will understand the role of the `shell` in the command line interface, distinguish it from the terminal, and explain how it interacts with user commands and the operating system.
 

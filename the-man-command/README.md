@@ -1,4 +1,7 @@
-# ![Intro to the CLI - Level Up - The Man Command](./assets/hero-the-man-command.png)
+<h1>
+  <span class="headline">Intro to the CLI</span>
+  <span class="subhead">The <code>man</code> Command</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to utilize the `man` command and `--help` flag to access and interpret the manual pages and help information for various commands.
 
@@ -10,4 +13,4 @@ For example, you can run `man rm` to view the list of flags that the `rm` comman
 
 Since man is also a command, you can even run `man man` to view more details about the man command.
 
-Some commands may also have the `--help` or `-h` flag. This flag can be used to display the help information for some commands. See the [Flags Level Up](./flags.md) for more details about flags.
+Some commands may also have the `--help` or `-h` flag. This flag can be used to display the help information for some commands. See the `Flags Lesson` for more details about flags.

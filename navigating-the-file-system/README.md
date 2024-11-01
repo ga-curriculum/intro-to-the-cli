@@ -1,4 +1,7 @@
-# ![Intro to the CLI - Navigating the File System](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to the CLI</span>
+  <span class="subhead">Navigating the File System</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to apply CLI commands like `pwd`, `ls`, and `cd` to efficiently navigate and interpret a computer's file system.
 
