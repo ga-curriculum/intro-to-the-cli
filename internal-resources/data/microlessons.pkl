@@ -52,7 +52,7 @@ whatIsACommand = new Template.Microlesson {
 }
 
 theManCommand = new Template.Microlesson {
-  friendlyName = "The <code>man</code> Command"
+  friendlyName = "The man Command"
   dirName = "the-man-command"
   type = "Content"
   videoUrl = ""
