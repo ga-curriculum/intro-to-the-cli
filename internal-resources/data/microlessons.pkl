@@ -6,62 +6,62 @@ concepts = new Template.Microlesson {
   friendlyName = "Concepts"
   dirName = "concepts"
   type = "Content"
-  videoUrl = ""
+  videoUrl = "https://generalassembly.wistia.com/medias/nbzyi785zx"
 }
 
 fundamentals = new Template.Microlesson {
   friendlyName = "Fundamentals"
   dirName = "fundamentals"
   type = "Content"
-  videoUrl = ""
+  videoUrl = "https://generalassembly.wistia.com/medias/vfv990huj6"
 }
 
 theFileSystem = new Template.Microlesson {
   friendlyName = "The File System"
   dirName = "the-file-system"
   type = "Content"
-  videoUrl = ""
+  videoUrl = "https://generalassembly.wistia.com/medias/qfgvgf3uux"
 }
 
 navigatingTheFileSystem = new Template.Microlesson {
   friendlyName = "Navigating the File System"
   dirName = "navigating-the-file-system"
   type = "Content"
-  videoUrl = ""
+  videoUrl = "https://generalassembly.wistia.com/medias/jyaw9d7kde"
 }
 
 manipulatingTheFileSystem = new Template.Microlesson {
   friendlyName = "Manipulating the File System"
   dirName = "manipulating-the-file-system"
   type = "Content"
-  videoUrl = ""
+  videoUrl = "https://generalassembly.wistia.com/medias/cbo1s6gqvc"
 }
 
 theShell = new Template.Microlesson {
   friendlyName = "The Shell"
   dirName = "the-shell"
   type = "Content"
-  videoUrl = ""
+  videoUrl = "https://generalassembly.wistia.com/medias/sj436hzj32"
 }
 
 whatIsACommand = new Template.Microlesson {
   friendlyName = "What Is a Command"
   dirName = "what-is-a-command"
   type = "Content"
-  videoUrl = ""
+  videoUrl = "https://generalassembly.wistia.com/medias/5vzppgahqo"
 }
 
 theManCommand = new Template.Microlesson {
   friendlyName = "The man Command"
   dirName = "the-man-command"
   type = "Content"
-  videoUrl = ""
+  videoUrl = "https://generalassembly.wistia.com/medias/ajcvgx4gmk"
 }
 
 flags = new Template.Microlesson {
   friendlyName = "Flags"
   dirName = "flags"
   type = "Content"
-  videoUrl = ""
+  videoUrl = "https://generalassembly.wistia.com/medias/f4q4yjo955"
 }
 

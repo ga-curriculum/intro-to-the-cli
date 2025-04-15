@@ -60,7 +60,50 @@ courses {
   new {
     name = "seb"
     microlessons {
-      // add microlessons here, in the order they should be delivered
+      mls.concepts
+      mls.fundamentals
+      mls.theFileSystem
+      mls.navigatingTheFileSystem
+      mls.manipulatingTheFileSystem
+      (mls.theShell) {
+        type = "Level Up content"
+      }
+      (mls.whatIsACommand) {
+        type = "Level Up content"
+      }
+      (mls.theManCommand) {
+        type = "Level Up content"
+      }
+      (mls.flags) {
+        type = "Level Up content"
+      }
+    }
+  }
+  new {
+    name = "itb"
+    microlessons {
+      mls.concepts
+      mls.fundamentals
+      mls.theFileSystem
+      mls.navigatingTheFileSystem
+      mls.manipulatingTheFileSystem
+      (mls.theShell) {
+        type = "Level Up content"
+      }
+      (mls.whatIsACommand) {
+        type = "Level Up content"
+      }
+      (mls.theManCommand) {
+        type = "Level Up content"
+      }
+      (mls.flags) {
+        type = "Level Up content"
+      }
+    }
+  }
+  new {
+    name = "its"
+    microlessons {
       mls.concepts
       mls.fundamentals
       mls.theFileSystem

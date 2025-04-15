@@ -6,66 +6,108 @@
   "repo": {
     "friendlyName": "Intro to the CLI",
     "name": "intro-to-the-cli",
-    "type": "Lesson"
+    "type": "Lesson",
+    "about": "",
+    "starterCode": "",
+    "solutionCode": "",
+    "deployedSite": ""
   },
   "courses": [
     {
       "name": "fallback",
+      "courseAcronym": "",
+      "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
           "friendlyName": "Concepts",
           "dirName": "concepts",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/nbzyi785zx",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "Fundamentals",
           "dirName": "fundamentals",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/vfv990huj6",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "The File System",
           "dirName": "the-file-system",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/qfgvgf3uux",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "Navigating the File System",
           "dirName": "navigating-the-file-system",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/jyaw9d7kde",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "Manipulating the File System",
           "dirName": "manipulating-the-file-system",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/cbo1s6gqvc",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "The Shell",
           "dirName": "the-shell",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/sj436hzj32",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "What Is a Command",
           "dirName": "what-is-a-command",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/5vzppgahqo",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "The man Command",
           "dirName": "the-man-command",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/ajcvgx4gmk",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "Flags",
           "dirName": "flags",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/f4q4yjo955",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         }
       ],
       "isHeaderShown": true,
@@ -92,61 +134,99 @@
     },
     {
       "name": "fws",
+      "courseAcronym": "",
+      "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
           "friendlyName": "Concepts",
           "dirName": "concepts",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/nbzyi785zx",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "Fundamentals",
           "dirName": "fundamentals",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/vfv990huj6",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "The File System",
           "dirName": "the-file-system",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/qfgvgf3uux",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "Navigating the File System",
           "dirName": "navigating-the-file-system",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/jyaw9d7kde",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "Manipulating the File System",
           "dirName": "manipulating-the-file-system",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/cbo1s6gqvc",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "The Shell",
           "dirName": "the-shell",
           "type": "Level Up content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/sj436hzj32",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "What Is a Command",
           "dirName": "what-is-a-command",
           "type": "Level Up content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/5vzppgahqo",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "The man Command",
           "dirName": "the-man-command",
           "type": "Level Up content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/ajcvgx4gmk",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "Flags",
           "dirName": "flags",
           "type": "Level Up content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/f4q4yjo955",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         }
       ],
       "isHeaderShown": true,
@@ -173,61 +253,337 @@
     },
     {
       "name": "seb",
+      "courseAcronym": "",
+      "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
           "friendlyName": "Concepts",
           "dirName": "concepts",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/nbzyi785zx",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "Fundamentals",
           "dirName": "fundamentals",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/vfv990huj6",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "The File System",
           "dirName": "the-file-system",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/qfgvgf3uux",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "Navigating the File System",
           "dirName": "navigating-the-file-system",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/jyaw9d7kde",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "Manipulating the File System",
           "dirName": "manipulating-the-file-system",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/cbo1s6gqvc",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "The Shell",
           "dirName": "the-shell",
           "type": "Level Up content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/sj436hzj32",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "What Is a Command",
           "dirName": "what-is-a-command",
           "type": "Level Up content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/5vzppgahqo",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "The man Command",
           "dirName": "the-man-command",
           "type": "Level Up content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/ajcvgx4gmk",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "Flags",
           "dirName": "flags",
           "type": "Level Up content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/f4q4yjo955",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    },
+    {
+      "name": "itb",
+      "courseAcronym": "",
+      "courseFullName": "",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/nbzyi785zx",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Fundamentals",
+          "dirName": "fundamentals",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/vfv990huj6",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "The File System",
+          "dirName": "the-file-system",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/qfgvgf3uux",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Navigating the File System",
+          "dirName": "navigating-the-file-system",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/jyaw9d7kde",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Manipulating the File System",
+          "dirName": "manipulating-the-file-system",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/cbo1s6gqvc",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "The Shell",
+          "dirName": "the-shell",
+          "type": "Level Up content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/sj436hzj32",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "What Is a Command",
+          "dirName": "what-is-a-command",
+          "type": "Level Up content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/5vzppgahqo",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "The man Command",
+          "dirName": "the-man-command",
+          "type": "Level Up content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/ajcvgx4gmk",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Flags",
+          "dirName": "flags",
+          "type": "Level Up content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/f4q4yjo955",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    },
+    {
+      "name": "its",
+      "courseAcronym": "",
+      "courseFullName": "",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/nbzyi785zx",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Fundamentals",
+          "dirName": "fundamentals",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/vfv990huj6",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "The File System",
+          "dirName": "the-file-system",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/qfgvgf3uux",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Navigating the File System",
+          "dirName": "navigating-the-file-system",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/jyaw9d7kde",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Manipulating the File System",
+          "dirName": "manipulating-the-file-system",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/cbo1s6gqvc",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "The Shell",
+          "dirName": "the-shell",
+          "type": "Level Up content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/sj436hzj32",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "What Is a Command",
+          "dirName": "what-is-a-command",
+          "type": "Level Up content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/5vzppgahqo",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "The man Command",
+          "dirName": "the-man-command",
+          "type": "Level Up content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/ajcvgx4gmk",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Flags",
+          "dirName": "flags",
+          "type": "Level Up content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "https://generalassembly.wistia.com/medias/f4q4yjo955",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         }
       ],
       "isHeaderShown": true,

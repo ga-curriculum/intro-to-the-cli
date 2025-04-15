@@ -16,7 +16,7 @@ This module provides a beginner-friendly guide to using the Command Line Interfa
 | [The File System](./the-file-system/README.md)                           |   10 min   | [link](https://generalassembly.wistia.com/medias/qfgvgf3uux) | Understanding the file system; Root and Home directories; absolute paths; file and directory organization; parent-child relationship in directories. |
 | [Navigating the File System](./navigating-the-file-system/README.md)     |   10 min   | [link](https://generalassembly.wistia.com/medias/jyaw9d7kde) | File system structure, `pwd`, `ls`, `cd`, command arguments, relative and absolute paths.                                                            |
 | [Manipulating the File System](./manipulating-the-file-system/README.md) |   9 min    | [link](https://generalassembly.wistia.com/medias/cbo1s6gqvc) | Creating and deleting files and directories, `mkdir`, `touch`, `rm`, `rmdir`, tab completion, and directory structure.                               |
-| [The Shell](./the-shell/README.md)                                       |   4 min    | [link](https://generalassembly.wistia.com/medias/sj436hzj32) | What is _the Shell_?                                                                                                                                 |
+| [The Shell](./the-shell/README.md)                                       |   4 min    | [link](https://generalassembly.wistia.com/medias/sj436hzj32) | What is the Shell?                                                                                                                                   |
 | [What is a Command?](./what-is-a-command/README.md)                      |   4 min    | [link](https://generalassembly.wistia.com/medias/5vzppgahqo) | Built-in commands, executable programs, functions and aliases.                                                                                       |
 | [The `man` command](./the-man-command/README.md)                         |   2 min    | [link](https://generalassembly.wistia.com/medias/ajcvgx4gmk) | View the manual page for a command.                                                                                                                  |
 | [Flags](./flags/README.md)                                               |   4 min    | [link](https://generalassembly.wistia.com/medias/f4q4yjo955) | How to use common flags.                                                                                                                             |
@@ -34,8 +34,11 @@ This module provides a beginner-friendly guide to using the Command Line Interfa
 
 ### Course landing pages
 
-- [Default Landing Page](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-the-cli/canvas-landing-pages/fallback)
-- [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-the-cli/canvas-landing-pages/seb)
+- [Default Landing Page](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-the-cli/canvas-landing-pages/fallback.html)
+- [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-the-cli/canvas-landing-pages/seb.html)
+- [FWS - Front-End Web Development](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-the-cli/canvas-landing-pages/fws.html)
+- [ITB - Information Technology Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-the-cli/canvas-landing-pages/itb.html)
+- [ITS - Information Technology Basics Short Course](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-the-cli/canvas-landing-pages/its.html)
 
 ### Resources
 
