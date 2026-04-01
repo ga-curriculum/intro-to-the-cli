@@ -34,11 +34,11 @@ This module provides a beginner-friendly guide to using the Command Line Interfa
 
 ### Course landing pages
 
-- [Default Landing Page](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-the-cli/canvas-landing-pages/fallback.html)
-- [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-the-cli/canvas-landing-pages/seb.html)
-- [FWS - Front-End Web Development](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-the-cli/canvas-landing-pages/fws.html)
-- [ITB - Information Technology Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-the-cli/canvas-landing-pages/itb.html)
-- [ITS - Information Technology Basics Short Course](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-the-cli/canvas-landing-pages/its.html)
+- [Default Landing Page](https://ga-curriculum.github.io/intro-to-the-cli/canvas-landing-pages/fallback.html)
+- [SEB - Software Engineering Bootcamp](https://ga-curriculum.github.io/intro-to-the-cli/canvas-landing-pages/seb.html)
+- [FWS - Front-End Web Development](https://ga-curriculum.github.io/intro-to-the-cli/canvas-landing-pages/fws.html)
+- [ITB - Information Technology Bootcamp](https://ga-curriculum.github.io/intro-to-the-cli/canvas-landing-pages/itb.html)
+- [ITS - Information Technology Basics Short Course](https://ga-curriculum.github.io/intro-to-the-cli/canvas-landing-pages/its.html)
 
 ### Resources
 
@@ -50,4 +50,4 @@ This module provides a beginner-friendly guide to using the Command Line Interfa
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback)!**
